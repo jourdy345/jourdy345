@@ -1,0 +1,207 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"f",
+				"f"
+			],
+			[
+				"nile",
+				"NileFilt2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Latextoold",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 400.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/daeyounglim/Desktop/Computer_related/Latex/econometrics.tex",
+		"/Users/daeyounglim/Desktop/econometrics.tex",
+		"/Users/daeyounglim/Downloads/assignment_2/assignment_2.tex",
+		"/Users/daeyounglim/Downloads/Flat-UI-master/.gitignore",
+		"/Users/daeyounglim/Downloads/bootstrap-3.3.4/docs/examples/grid/index.html",
+		"/Users/daeyounglim/Desktop/Computer_related/Python/env/econometrics_hw3.py",
+		"/Users/daeyounglim/Desktop/Computer_related/Python/env/hprice1.py",
+		"/Users/daeyounglim/Downloads/bootstrap-3.3.4/less/forms.less",
+		"/Users/daeyounglim/Desktop/Computer_related/HTML/portfolio/portfolio_main.css",
+		"/Users/daeyounglim/Desktop/Computer_related/HTML/portfolio/portfolio_main.html",
+		"/Users/daeyounglim/Desktop/Computer_related/HTML/portfolio_main.html",
+		"/Users/daeyounglim/Desktop/Computer_related/HTML/portfolio_main.css",
+		"/Users/daeyounglim/hello-world/README.md",
+		"/Users/daeyounglim/Desktop/Javascript/app.js",
+		"/Users/daeyounglim/Desktop/HTML/EXERCISE.html",
+		"/Users/daeyounglim/Desktop/Javascript/EXERCISE.js",
+		"/Users/daeyounglim/Desktop/Javascript/Server.js",
+		"/Users/daeyounglim/Desktop/C/helloworld.c",
+		"/Users/daeyounglim/Desktop/C/Makefile.c",
+		"/Users/daeyounglim/Desktop/helloworld.js",
+		"/Users/daeyounglim/Desktop/tango_with_django_project/rango/views.py",
+		"/Users/daeyounglim/Desktop/tango_with_django_project/rango/urls.py",
+		"/Users/daeyounglim/Desktop/NprApi.py",
+		"/Users/daeyounglim/Desktop/tango_with_django_project/rango/url.py",
+		"/Users/daeyounglim/Desktop/tango_with_django_project/tango_with_django_project/settings.py",
+		"/Users/daeyounglim/Desktop/temp2.py",
+		"/Users/daeyounglim/Downloads/Anaconda-2.2.0-MacOSX-x86_64.sh",
+		"/Users/daeyounglim/Desktop/temp.py",
+		"/Users/daeyounglim/Desktop/PythonScripts/CountingScripts.py",
+		"/Users/daeyounglim/projects/skeleton/tests/NAME_tests.py",
+		"/Users/daeyounglim/Desktop/PythonScripts/webpage.py",
+		"/Users/daeyounglim/Desktop/CountingScripts.py",
+		"/Users/daeyounglim/Desktop/imageImport.py",
+		"/Users/daeyounglim/Desktop/pi.py",
+		"/Users/daeyounglim/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/daeyounglim/Desktop/this.sh",
+		"/Users/daeyounglim/Desktop/prompt.py",
+		"/Users/daeyounglim/Desktop/test.sh",
+		"/Users/daeyounglim/Desktop/test.py",
+		"/Users/daeyounglim/Desktop/DLM.R",
+		"/Users/daeyounglim/Dropbox/BigContest/SAS/R.../timeseries_ratio.R",
+		"/Users/daeyounglim/Dropbox/SAS/timeseries_ratio",
+		"/Users/daeyounglim/Desktop/Diary_141005"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\n\\[.*\\]\\n",
+			"\\[.*\\]",
+			"^(\\n)\\[.*\\]\\n",
+			"\\[.*\\]\\n",
+			"\\[.*\\]"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\n",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 83.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

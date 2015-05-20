@@ -1,0 +1,57 @@
+body {
+  background-color: #f0f0f0;
+}
+
+header {
+  margin: 20px 0;
+}
+
+header #logo {
+  width: 100px;
+}
+
+header #navigation {
+  margin-top: 20px;
+}
+header #navigation li {
+  font-weight: 500;
+  list-style: none;
+  float: left;
+}
+
+header #navigation li a {
+  padding: 30px;
+}
+
+header #navigation li a:hover {
+  background-color: #fafafa;
+}
+
+#content {
+  /*background-color: #fff;*/
+  padding: 40px;
+  margin: 40px auto;
+}
+
+#content h3 {
+  font-size: 18px;
+  color: rgba(0,0,0,0.4);
+  margin-top: 0;
+  font-weight: 100;
+  letter-spacing: -1px;
+}
+
+#content p {
+  font-weight: 100;
+  letter-spacing: -1px;
+  /*border-left: dotted #d4d4d4 2px;*/
+  /*padding-left: 40px;*/
+  margin-top: 40px;
+  line-height: 30pt;
+  text-align: justify;
+}
+
+.profile-image {
+  width: 200px;
+  float: right;
+}
